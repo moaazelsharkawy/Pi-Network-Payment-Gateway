@@ -1,0 +1,41 @@
+/* تنسيقات لواجهة إعدادات بوابة الدفع */
+#pi-network-settings .form-table th {
+    text-align: left;
+    font-weight: bold;
+    color: #444;
+}
+
+#pi-network-settings .form-table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+#pi-network-settings .form-table input,
+#pi-network-settings .form-table textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* تنسيقات لصفحة الدفع */
+.pi-payment-info {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.pi-payment-info h2 {
+    font-size: 18px;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.pi-payment-info p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+}
