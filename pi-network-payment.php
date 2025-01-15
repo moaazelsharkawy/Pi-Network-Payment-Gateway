@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Pi Network Payment Gateway
-Plugin URI: https://example.com
-Description: A custom WooCommerce payment gateway for Pi Network.
+Plugin URI: https://salla-shop.com
+Description: A  WooCommerce payment gateway for Pi Network.
 Version: 1.0
 Author: MoaazElsharkawy
 Author URI: https://salla-shop.com
