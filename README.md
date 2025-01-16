@@ -1,2 +1,2 @@
 # Pi-Network-Payment-Gateway
-gateway for woocomerce retail shops web2
+Gateway for woocomerce retail shops web2
